@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rye-06
 - 👀 I’m interested in ... helping others
-- 🌱 I’m currently learning ... several programming languages including java, python, javascript etc.
+- 🌱 I’m currently learning java!
 
 
 <!---
