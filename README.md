@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rye-06
 - 👀 Aspiring Coder
-- 🌱 I’m currently learning java!
+- 🌱 I’m currently learning React!
 
 
 <!---
